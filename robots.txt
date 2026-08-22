@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dorchesterplumbing.ca/sitemap-index.xml
